@@ -10,7 +10,7 @@
       "listen_port": 8080,
       "users": [
         {
-          "uuid": "你的uuid"
+          "uuid": "e58dc2a4-fd4e-4aca-b47a-9310501b32ea"
         }
       ],
       "transport": {
